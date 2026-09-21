@@ -5,7 +5,7 @@
 }
 .hero{
 	height: 600px;
-	background: url('../image/front_image.jpg');
+	background: url('..front_image.jpg');
 	background-size: cover;
 	background-position: bottom;
 	display: flex;
